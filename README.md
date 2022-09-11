@@ -10,7 +10,7 @@ https://whatsapp-deploy.herokuapp.com/
 
 * Open the chat you wish to export. Click on the three dots or menu bar, and then on additional options.
 * There, we can find the Export chat option; we should click that 
-*  Now it will ask whether you want to export the chat with or without media; select the option **without media** Avoid including media files when exporting data, as if the number of media files exceeds a certain threshold, only a subset of the media files will be exported.
+* Now it will ask whether you want to export the chat with or without media; select the option **without media** Avoid including media files when exporting data, as if the number of media files exceeds a certain threshold, only a subset of the media files will be exported.
 
 Our WhatsApp chat analyser work on both time format i.e. be it 24 hour format or 12 hour format. It also works for both individual chat or group chat.
 
@@ -49,11 +49,10 @@ Our webapp gives the following analysis:
 
 ## References 
 
-https://jovian.ai/tusharnankani3/whatsapp-data-analysis
-https://www.javatpoint.com/regex
-https://www.youtube.com/watch?v=AEE9ecgLgdQ
-https://www.youtube.com/watch?v=Q0QwvZKG_6Q
-https://www.analyticsvidhya.com/blog/2021/04/whatsapp-group-chat-analyzer-using-python/
-https://stackoverflow.com/
-
-
+1. https://jovian.ai/tusharnankani3/whatsapp-data-analysis
+2. https://www.javatpoint.com/regex
+3. https://www.youtube.com/watch?v=AEE9ecgLgdQ
+4. https://www.youtube.com/watch?v=Q0QwvZKG_6Q
+5. https://www.youtube.com/watch?v=sa-TUpSx1JA
+6. https://www.analyticsvidhya.com/blog/2021/04/whatsapp-group-chat-analyzer-using-python/
+7. https://stackoverflow.com/
