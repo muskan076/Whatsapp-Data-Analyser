@@ -20,7 +20,6 @@ Our WhatsApp chat analyzer is compatible with both 24-hour and 12-hour time form
 * Pandas
 * Matplotlib
 * Seaborn
-* Emoji
 * urlextract
 * Emoji
 * streamlit
