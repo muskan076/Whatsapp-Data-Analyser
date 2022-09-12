@@ -10,7 +10,7 @@ https://whatsapp-deploy.herokuapp.com/
 
 * Open the chat you wish to export. Click on the three dots or menu bar, and then on additional options.
 * There, we can find the Export chat option; we should click that. 
-* Now it will ask whether you want to export the chat with or without media; select the option **without media** Avoid including media files when exporting data, as if the number of media files exceeds a certain threshold, only a subset of the media files will be exported.
+*  Now it will ask whether you want to export the chat with or without media; select the option **without media** Avoid including media files when exporting data, as if the number of media files exceeds a certain threshold, only a subset of the media files will be exported.
 
 Our WhatsApp chat analyzer is compatible with both 24-hour and 12-hour time formats. Additionally, it supports both individual and group chat.
 
