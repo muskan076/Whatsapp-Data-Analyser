@@ -8,7 +8,7 @@ import seaborn as sns
 
 st.sidebar.title('Whatsapp Chat Analyser')
 
-uploaded_file = st.sidebar.file_uploader("Choose a file")
+uploaded_file = st.sidebar.file_uploader("Choose a txt file")
 if uploaded_file is not None:
     bytes_data = uploaded_file.getvalue()
     chat = bytes_data.decode('utf-8')
